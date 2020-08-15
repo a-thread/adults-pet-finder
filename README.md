@@ -88,6 +88,7 @@ As an animal and comedy lover, I want a pet so that I am not lonely.
 
 #### License
 *This project is licensed under the terms of the MIT license.*
+
   ---
 
 [Back To The Top](#)
