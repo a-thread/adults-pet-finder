@@ -65,7 +65,7 @@ This was a joint project between the following developers with links to each of 
 As an animal and comedy lover, I want a pet so that I am not lonely.
 ```  
 
-#### Technologies
+### Technologies
 >- Materialize (css framework)
 >- jQuery
 >- Animate.css
@@ -74,20 +74,20 @@ As an animal and comedy lover, I want a pet so that I am not lonely.
 >- Google Fonts
 >- Embed Responsively 
 
- ##### Server-side APIs Used
+ ### Server-side APIs Used
 >- Dog.ceo
 >- Thecatapi.com
 >- Placegoat.com
 >- Flickr 
 
-## References
+#### References
 - [Google](https://www.google.com/search?rlz=1C1CHBF_enUS897US897&sxsrf=ALeKk02B1ruRG65iESFFq7rXg9ygTaf64A%3A1596668160045&ei=ADkrX-CnAvaoytMP55W7kAo&q=how+tall+is+a+goat&oq=how+tall+is+a+goat&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoFCAAQkQI6CAguEMcBEKMCOgUIABCLAzoLCC4QxwEQowIQiwM6AgguOgcIABBGEPsBOggIABAWEAoQHlCA6gJYrqIDYKOlA2gBcAB4AIABb4gBnwuSAQQxNy4ymAEAoAEBqgEHZ3dzLXdpergBAsABAQ&sclient=psy-ab&ved=0ahUKEwjgp4O0lIXrAhV2lHIEHefKDqIQ4dUDCAw&uact=5)
 - [Neon Stylings](https://codepen.io/FelixRilling/pen/qzfoc)
 - [Stackoverflow](https://stackoverflow.com/questions/28258106/materialize-css-select-doesnt-seem-to-render)
 - [w3schools.com](https://www.w3schools.com/js/js_ajax_intro.asp)
 
-## License
-- This project is licensed under the terms of the MIT license.
+#### License
+*This project is licensed under the terms of the MIT license.*
   ---
 
 [Back To The Top](#)
